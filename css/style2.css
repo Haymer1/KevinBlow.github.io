@@ -1,0 +1,132 @@
+.youtube{
+    color: white;
+    background: red;
+}
+.tiktok{
+    color: white;
+    background: rgb(0, 0, 0);
+}
+a{
+    color: white;
+}
+a:hover{
+    color: black;
+}
+.portrait{
+    display: flex;
+    justify-content: flex-start;
+    width: 70%;
+    height: auto;
+}
+
+body, h1, h2, h3, h4, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f2f2f2;
+  padding: 25px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 30px;
+  color: #333;
+}
+
+address {
+  font-style: normal;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+h4 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #f2f2f2;
+  margin-top: 20px;
+}
+
+#obj p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+  
+#edu h3, #edu h4 {
+    margin-top: 10px;
+}
+  
+#edu p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+  
+#work h3 {
+    margin-top: 10px;
+}
+  
+#work p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+  
+#work ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+  
+#award h3 {
+    margin-top: 10px;
+}
+body{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+.logo{
+  min-width: 75px;
+  max-width: 30px;
+}
+.carousel{
+  max-width: 60%;
+}
+.figcaption{
+  font-size: 25px;
+}
+.funfacts{
+  font-family: arial;
+  font-weight: bold;
+}
+.funfacts2{
+  font-family: arial;
+  font-weight:500;
+}

@@ -1,0 +1,27 @@
+.youtube{
+    color: white;
+    background: red;
+}
+.tiktok{
+    color: white;
+    background: rgb(0, 0, 0);
+}
+a{
+    color: white;
+}
+a:hover{
+    color: black;
+}
+.portrait{
+    display: flex;
+    justify-content: flex-start;
+    width: 70%;
+    height: auto;
+}
+.container{
+    padding-top:250px;
+}
+.logo{
+    min-width: 75px;
+    max-width: 30px;
+  }
